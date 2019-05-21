@@ -1,0 +1,2 @@
+# segment_matting_demo
+使用php和 jquery完成了对接阿里云智能人像分割（抠图）接口，只需要修改php文件里的appcode就可以在php环境下运行。
